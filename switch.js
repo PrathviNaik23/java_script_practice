@@ -14,5 +14,5 @@ switch(num2){
         break;
         
     default:
-        console.log("GET LOST....!")    
+        console.log("GET LOST")    
 }

@@ -1,9 +1,9 @@
 //! Named Function
 
-// function display(){
-//     console.log("Pyspiders")
-// }
-// display()
+function display(){
+    console.log("Pyspiders")
+}
+display()
 
 //! 2. Anonymous function
 
